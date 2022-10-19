@@ -1,0 +1,15 @@
+[workstations]
+192.168.56.115 
+
+[web_servers]
+192.168.56.114
+
+[db_servers]
+192.168.56.119 
+
+[file_servers]
+192.168.56.120
+
+ 
+
+
